@@ -9,6 +9,6 @@ Followed by zero or more 'b' characters.
 Ending with one or more 'c' characters.
 
 Language:
-L={aa+db∗c+}
+L={aa*db∗c+}
 
 
